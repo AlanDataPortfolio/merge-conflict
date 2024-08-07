@@ -1,1 +1,1 @@
-"Dev 1 is not Alan" 
+"All devs are Alan" 
